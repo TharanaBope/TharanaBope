@@ -64,7 +64,6 @@ I aim to build a strong foundation in software engineering, enhance my technical
 ## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TharanaBope&show_icons=true&theme=radical" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TharanaBope&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="400">
 </p>
 
 ### 🏅 GitHub Trophies:
