@@ -63,25 +63,25 @@ I aim to build a strong foundation in software engineering, enhance my technical
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TharanaBopearachchi&show_icons=true&theme=radical" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TharanaBopearachchi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=TharanaBope&show_icons=true&theme=radical" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TharanaBope&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="400">
 </p>
 
 ### 🏅 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TharanaBopearachchi&theme=radical&row=1&column=7">
+  <img src="https://github-profile-trophy.vercel.app/?username=TharanaBope&theme=radical&row=1&column=7">
 </p>
 
 ### 📈 Contribution Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TharanaBopearachchi&theme=github-dark&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TharanaBope&theme=github-dark&hide_border=true">
 </p>
 
 ---
 
 ## 🌟 Visitor Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TharanaBopearachchi&style=for-the-badge&color=blueviolet&label=Visitors">
+  <img src="https://komarev.com/ghpvc/?username=TharanaBope&style=for-the-badge&color=blueviolet&label=Visitors">
 </p>
 
 ---
@@ -90,7 +90,7 @@ I aim to build a strong foundation in software engineering, enhance my technical
 <p align="center">
   <a href="https://www.linkedin.com/in/tharana-bopearachchi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/tharana.b?igsh=Y3BtMDNyNGJxcGV1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/TharanaBopearachchi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/TharanaBope"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
