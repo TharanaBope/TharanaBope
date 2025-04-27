@@ -13,8 +13,8 @@
 Check me out:
 
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tharanabopearachchi){target="_blank"}
-- 🌐 [Personal Website](https://www.tharanabopearachchi.com){target="_blank"}
+- 🔗 [www.linkedin.com/in/tharanabopearachchi](https://www.linkedin.com/in/tharanabopearachchi)
+- 🌐 [www.tharanabopearachchi.com](https://www.tharanabopearachchi.com/)
 
 
 
